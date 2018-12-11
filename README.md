@@ -26,10 +26,8 @@ pip install folium
 ### Step by Step Solution
 I have created different files for each step in creating the interactive dictionary, here's the description of what each file does. 
 
-``` 
-geo1.py
-```
-> Create a base map usinf folium.Map
+> geo1.py
+>> Create a base map usinf folium.Map
 
 ```
 geo2.py
