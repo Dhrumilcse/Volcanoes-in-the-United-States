@@ -18,9 +18,9 @@ pip install folium
 
 ### Data
 
-*Volcanoes_USA.txt
-*us-states.json
-*us-unemployment.csv
+1. Volcanoes_USA.txt
+2. us-states.json
+3. us-unemployment.csv
 
 
 ### Step by Step Solution
