@@ -26,13 +26,12 @@ pip install folium
 ### Step by Step Solution
 I have created different files for each step in creating the interactive dictionary, here's the description of what each file does. 
 
-> geo1.py
->> Create a base map usinf folium.Map
+1. geo1.py
+  Create a base map usinf folium.Map
 
-```
-geo2.py
-```
-> Add a single marker using folium.Marker
+
+2. geo2.py
+  Add a single marker using folium.Marker
 
 ```
 geo3.py
